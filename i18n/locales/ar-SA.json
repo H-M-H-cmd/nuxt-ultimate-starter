@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "showcase": "المعرض"
+  },
+  "showcase": {
+    "title": "المعرض",
+    "description": "المعرض للمكونات"
+  },
+  "applicant-details": {
+    "title": "بيانات المتقدم",
+    "description": "هل انت المالك ام المستأجر؟"
+  },
+  "deed-details": {
+    "title": "بيانات العقد",
+    "description": "أدخل بيانات العقد"
+  },
+  "party-details": {
+    "title": "بيانات الطرف",
+    "description": "أدخل بيانات الطرف"
+  },
+  "welcome": "مرحبا بك في أول مكونات المشروع",
+  "owner": "المالك",
+  "tenant": "المستأجر",
+  "selectApplicant": "اختر المالك او المستأجر",
+  "applicantPhone": "رقم جوال ",
+  "ownerRepresentativePhone": "رقم جوال وكيل المالك",
+  "tenantRepresentativePhone": "رقم جوال وكيل المستأجر",
+  "brokerPhone": "رقم جوال الوسيط",
+  "serviceProviderPhone": "رقم جوال مكتب خدمات",
+  "ownerRepresentative": "وكيل المالك",
+  "tenantRepresentative": "وكيل المستأجر",
+  "broker": "وسيط عقارى رسمى",
+  "serviceProvider": "مكتب خدمات / استرزق",
+  "iAm": "أنا ",
+  "selectContractUsage": "اختر استخدام العقد",
+  "selectDeedType": "اختر نوع صك الملكية",
+  "deedNumberPlaceholder": "رقم الصك الاكتروني ( 12 رقم )",
+  "deedDatePlaceholder": "تاريخ الصك",
+  "validation": {
+    "required": "هذا الحقل مطلوب",
+    "email": "يرجى إدخال بريد إلكتروني صحيح",
+    "numeric": "الرجاء إدخال أرقام فقط",
+    "minLength": "يجب أن يكون {min} أحرف على الأقل",
+    "maxLength": "يجب ألا يتجاوز {max} حرفاً",
+    "phone": "يرجى إدخال رقم هاتف صحيح",
+    "name": "يجب أن يحتوي الاسم على حروف فقط",
+    "url": "الرجاء إدخال رابط صحيح",
+    "deedNumber": "رقم الصك يجب أن يكون 12 رقمًا",
+    "deedNumberRepeat": "يجب أن لا يتكرر الرقم نفسه 5 مرات",
+    "passwordMatch": "كلمات المرور غير متطابقة"
+  },
+  "initializingContract": "جاري تهيئة العقد...",
+  "error": "خطأ",
+  "errorInitializingContract": "حدث خطأ أثناء تهيئة العقد. يرجى المحاولة مرة أخرى."
+} 

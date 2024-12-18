@@ -1,0 +1,56 @@
+{
+  "nav": {
+    "home": "Home",
+    "showcase": "Showcase"
+  },
+  "showcase": {
+    "title": "Showcase",
+    "description": "Showcase of the components"
+  },
+  "applicant-details": {
+    "title": "Applicant Details",
+    "description": "Enter the applicant details"
+  },
+  "deed-details": {
+    "title": "Deed Details",
+    "description": "Enter the deed details"
+  },
+  "party-details": {
+    "title": "Party Details",
+    "description": "Enter the party details"
+  },
+  "welcome": "Welcome to ultimate starter kit",
+  "owner": "Owner",
+  "tenant": "Tenant",
+  "selectApplicant": "Select the owner or the tenant",
+  "applicantPhone": "Phone of ",
+  "ownerRepresentativePhone": "Owner Representative phone",
+  "tenantRepresentativePhone": "Tenant Representative phone",
+  "brokerPhone": "Broker phone",
+  "serviceProviderPhone": "Service Provider phone",
+  "ownerRepresentative": "Owner Representative",
+  "tenantRepresentative": "Tenant Representative",
+  "broker": "Official Real Estate Broker",
+  "serviceProvider": "Service Provider",
+  "iAm": "I am",
+  "selectContractUsage": "Select contract usage",
+  "selectDeedType": "Select deed type",
+  "deedNumberPlaceholder": "Digital Deed Number (12 digits)",
+  "deedDatePlaceholder": "Deed Date",
+  "validation": {
+    "required": "This field is required",
+    "email": "Please enter a valid email address",
+    "numeric": "Please enter numbers only",
+    "minLength": "Must be at least {min} characters",
+    "maxLength": "Must not exceed {max} characters",
+    "phone": "Please enter a valid phone number",
+    "name": "Name must contain only letters",
+    "url": "Please enter a valid URL",
+    "deedNumber": "Deed number must be 12 digits",
+    "deedNumberRepeat": "Deed number cannot have the same digit repeated 5 times",
+    "passwordMatch": "Passwords do not match"
+  },
+  "initializingContract": "Initializing contract...",
+  "error": "Error",
+  "errorInitializingContract": "Error initializing contract. Please try again."
+} 
